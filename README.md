@@ -2,7 +2,8 @@
 Paramiko
 ========
 
-Script Paramiko para conectarse via SSH a un dispositivo Cisco
+1.Script Paramiko para conectarse via SSH a un dispositivo Cisco
+2.Script Paramiko que pide al usuario las credenciales para conectarse a un dispositivo Cisco
 
 Homepage:
 ---------
