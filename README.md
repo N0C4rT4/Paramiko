@@ -3,15 +3,17 @@ Paramiko
 ========
 
 
-Homepage:    
+# Homepage:    
 http://www.paramiko.org/
-API docs:    
+
+# API docs:    
 http://docs.paramiko.org
-Development: 
+
+# Development: 
 https://github.com/paramiko/paramiko
 
 
-Installation
+Instalación
 ------------
 
 
