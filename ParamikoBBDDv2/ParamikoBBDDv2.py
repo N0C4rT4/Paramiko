@@ -17,8 +17,8 @@ for ip in ip_lista:
     print ('\n  '+ ip.strip() + ' \n')
     router = {
     'ip':   ip,
-    'username': 'python',
-    'password': 'cisco',
+    'username': 'cisco123',
+    'password': 'cisco123',
     'device_type': 'cisco_ios',
     }
 ##creamos una excepciones, conectado, no conectado, creacion de la bbdd en txt
