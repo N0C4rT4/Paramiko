@@ -15,7 +15,7 @@ for router in listaDispositivos:
     session= paramiko.SSHClient()
     session.set_missing_host_key_policy(paramiko.AutoAddPolicy())
     session.connect(router, port=22,
-                    username='python', password='cisco', allow_agent=False, look_for_keys=False)
+                    username='cisco123', password='cisco123', allow_agent=False, look_for_keys=False)
     acceso_dispos= session.invoke_shell()
     acceso_dispos.send (b'terminal len 0 \n')
     acceso_dispos.send(b'show run \n')
